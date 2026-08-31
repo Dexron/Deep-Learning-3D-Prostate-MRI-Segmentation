@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Medical images
+*.nii
+*.nii.gz
+*.mhd
+*.raw
+*.dcm
+
+# Trained models
+*.pth
+*.pt
+
+# Dataset folders
+data/
+TrainVolumes/
+TrainSegmentation/
+TestVolumes/
+TestSegmentation/
+
+# Model folders
+Models/
+Models2/
+models/
+
+# Environment files
+.env
+
+# Windows
+Thumbs.db
