@@ -16,18 +16,6 @@ __pycache__/
 *.pth
 *.pt
 
-# Dataset folders
-data/
-TrainVolumes/
-TrainSegmentation/
-TestVolumes/
-TestSegmentation/
-
-# Model folders
-Models/
-Models2/
-models/
-
 # Environment files
 .env
 
