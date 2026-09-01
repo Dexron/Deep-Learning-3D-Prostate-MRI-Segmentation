@@ -1,11 +1,7 @@
-# Deep Learning 3D Prostate MRI Segmentation 
-
-
+# Deep Learning 3D Prostate MRI Segmentation
 
 <p align="center">
-
-&#x20; <img src="Images/MRI Predictions.png" width="850">
-
+  <img src="Images/MRI_Predictions.png" width="850">
 </p>
 
 ## About this project
@@ -802,3 +798,7 @@ Rather than showing only the best performance number, I have kept the different 
 
 The project helped me understand not only how to train a 3D deep learning model, but also how to evaluate its limitations and make evidence-based decisions about what to improve next.
 
+=======
+# Deep-Learning-3D-Prostate-MRI-Segmentation
+Deep Learning-Based 3D Prostate MRI Segmentation Using MONAI and U-Net
+>>>>>>> cbc1360b08d58731ec58091a6f9e3e08d81e3232
